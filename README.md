@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BIGjerry13ern
+- 👋 Hi, I’m @JerrBear13ish
 - 👀 I’m interested in AI development
 - 🌱 I’m currently learning AI dev with python the official hand book for python
 - 💞️ I’m looking to collaborate on nothing cant code yet (ill update this when i can)
